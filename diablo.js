@@ -23,7 +23,7 @@ chats: {},
 }
 
 global.ownerName = 'Revoltech'
-global.ownerNumber = ["6285803438385@s.whatsapp.net"]
+global.ownerNumber = ["62895327441585@s.whatsapp.net"]
 global.prefa = ['','.']
 global.mess = {
     wait: 'Wait Sis Please be patient',
